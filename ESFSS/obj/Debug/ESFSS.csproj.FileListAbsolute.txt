@@ -1,0 +1,16 @@
+D:\ESFSS\ESFSS\bin\Debug\ESFSS.exe.config
+D:\ESFSS\ESFSS\bin\Debug\ESFSS.exe
+D:\ESFSS\ESFSS\bin\Debug\ESFSS.pdb
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.csprojResolveAssemblyReference.cache
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.Properties.Resources.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.csproj.GenerateResource.Cache
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.exe
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.pdb
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.AuthRegForm.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.ProdMainForm.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.UserMainForm.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.ViewSensForm.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.csproj.ResolveComReference.cache
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.AdminMainForm.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.AllSensForm.resources
+D:\ESFSS\ESFSS\obj\Debug\ESFSS.AboutProgForm.resources
